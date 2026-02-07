@@ -12,4 +12,3 @@ nav:
     - program.py: project1/docs.md
   - Project2:
     - program.js: project2/docs.md
-docs_dir: .
