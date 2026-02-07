@@ -1,4 +1,4 @@
-site_name: Documentation for test-mkdocs
+site_name: Test Documentation
 theme:
   name: material
 markdown_extensions:
@@ -7,6 +7,9 @@ markdown_extensions:
   - pymdownx.snippets:
       base_path: .
 nav:
-  - Home: index.md
-  - Project 1: program-py.md
-  - Project 2: program-js.md
+  - Home: docs/index.md
+  - Project1:
+    - program.py: project1/docs.md
+  - Project2:
+    - something.py: project2/docs.md
+docs_dir: .
