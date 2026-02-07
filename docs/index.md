@@ -1,4 +1,4 @@
 # Test Documentation
 
-- [program.py](program-py.md)
-- [program.js](program-js.md)
+- [program.py](project1/docs.md)
+- [program.js](project2/docs.md)
