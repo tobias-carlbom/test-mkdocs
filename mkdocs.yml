@@ -11,5 +11,5 @@ nav:
   - Project1:
     - program.py: project1/docs.md
   - Project2:
-    - something.py: project2/docs.md
+    - program.js: project2/docs.md
 docs_dir: .
