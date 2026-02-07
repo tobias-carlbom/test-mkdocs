@@ -1,0 +1,12 @@
+site_name: Documentation for test-mkdocs
+theme:
+  name: material
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path: .
+nav:
+  - Home: index.md
+  - project1/program.py: program-py.md
+  - project2/program.js: program-js.md
