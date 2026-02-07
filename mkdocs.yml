@@ -8,5 +8,5 @@ markdown_extensions:
       base_path: .
 nav:
   - Home: index.md
-  - project1/program.py: program-py.md
-  - project2/program.js: program-js.md
+  - Project 1: program-py.md
+  - Project 2: program-js.md
